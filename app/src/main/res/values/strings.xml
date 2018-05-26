@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">General Quiz</string>
+    <string name="please_enter_your_name_here">Please Enter Your Name Here</string>
+    <string name="begin">Begin</string>
+    <string name="angery">Angery</string>
+    <string name="restart_quiz">Restart Quiz</string>
+</resources>
